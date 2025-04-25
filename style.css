@@ -86,6 +86,11 @@ nav {
 .sliderImg {
   z-index: 1;
 }
+.searchInput{
+  outline: none;
+  font-size: 16px;
+  color: white;
+}
 
 .sliderTitle {
   position: absolute;
